@@ -1,6 +1,7 @@
 ## SmartyPants
 
-**Mi nombre es Leticia Sachez
+**Mi nombre es Leticia Sanchez
+** Mi numero de telefono es 80050022
 
 SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
